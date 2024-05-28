@@ -1,152 +1,231 @@
-<div align="center" id="top">
-  <img src="https://profile-readme-generator.com/assets/app.png" width="900" alt="Profile Readme Generator" />
 
-  <a href="https://profile-readme-generator.com">Demo</a>
-</div>
 
-<div align="center">
-  <h1>Profile Readme Generator</h1>
-  <h3>The best profile readme generator you will find!</h3>
-</div>
+<!-- ###### HEAD ##### -->
 
-<p align="center">
-  <a href="https://github.com/maurodesouza/profile-readme-generator/fork" target="_blank">
-    <img src="https://img.shields.io/github/forks/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project forks"/>
-  </a>
 
-  <a href="https://github.com/maurodesouza/profile-readme-generator/stargazers" target="_blank">
-    <img src="https://img.shields.io/github/stars/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project stars"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/commit-activity/m/maurodesouza/profile-readme-generator?" alt="Badge showing average commit frequency per month"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/last-commit/maurodesouza/profile-readme-generator?" alt="Badge showing when the last commit was made"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/issues" target="_blank">
-    <img src="https://img.shields.io/github/issues/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project issues"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/pulls" target="_blank">
-    <img src="https://img.shields.io/github/issues-pr/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project pull-requests"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/blob/master/LICENSE.md" target="_blank">
-    <img alt="Badge showing project license type" src="https://img.shields.io/github/license/maurodesouza/profile-readme-generator?color=f85149">
-  </a>
-</p>
+<img width=100% title="E1.Coders" alt="[E1.Coders" src="https://www.crushpixel.com/big-static19/preview4/coding-system-minimal-infographic-banner-3584480.jpg"/>
 
 
 <p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0;
-  <a href="#rocket-main-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="https://github.com/maurodesouza/profile-readme-generator/blob/main/.github/CONTRIBUTING.md">Contributing</a>
+<a href="https://packetstormsecurity.com/files/author/11568/"/><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
+</p>
+ <p align="center">
+<a href="https://cxsecurity.com/author/E1.Coders/1/"/><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
+<a href="https://www.sololearn.com/profile/3674946"/><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
+  </p>
+
+  
+  <p align="center">
+  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=0e75b6&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/E1.Coders"/></a>
+ <a href="mailto:E1.Coders@Mail.RU">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=0e75b6&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/E1.Coders"/></a>
+ <a href="mailto:E1.Coders@Mail.RU">
+    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
+  </a>
+  </p>
+
+  <p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bakbak+One&pause=1000&color=0D2D3B&width=435&lines=Your+computer+is+not+in+your+hands%2C+;it+is+in+the+hands+of+someone+who+has+more+knowledge..." alt="Typing SVG" /></a>
 </p>
 
-## :dart: About ##
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right"> <br>
 
-Are you tired of manually editing your GitHub profile or missing out on the amazing features you can add to it? 😩 Configuring GitHub actions can also be a hassle, right? Say no more! 💪
-
-**Introducing a tool that lets you beautify your GitHub profile with a customized README, easily and in no time!** ✨ You can include whatever content you want, wherever you want it (*within the limitations of markdown, of course*). 📝
-
-**With this amazing tool, creating your own README has never been so simple and fast.** ⚡ You can save time and focus on what really matters - showcasing your skills and projects. 🚀
-
-**Don't miss out on the opportunity to enhance your GitHub profile.** Give it a try and see for yourself how easy and convenient it is! 😉
+<!-- ###### END OF HEAD ##### -->
 
 
-<p align="center">
-<i>Loved the tool? Please consider <a href="https://www.paypal.com/donate/?hosted_button_id=FR3A2DGVYKGJS">donating 💸</a> to support its continuous<br/> improvement and development!</i>
+
+
+<!-- ###### Languages | Tools ##### -->
+
+<br />
+<h4 align="center"><br>
+  <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/> Languages | Tools <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/>
+ </h4>
+ 
+<code><img src="Images/readme icon/gradient/javascript-512.png" width="35"/></code>
+<code><img src="Images/readme icon/gradient/c-plus-plus.png" width="35"/></code>
+<code><img src="Images/readme icon/gradient/react-native-512.png" width="35"/></code>
+<code><img src="Images/readme icon/gradient/python-512.png" width="35"/></code>
+<code><img src="Images/readme icon/gradient/java-512.png" width="35"/></code>
+<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="30" height="30" alt="Kotlin" /></code>
+<code><img src="Images/readme icon/gradient/php.png" width="35"/></code>
+<code><img src="Images/readme icon/gradient/sql.png" width="35"/></code>
+<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="30" height="30" alt="PostgreSQL" /></code>
+<code><img src="Images/readme icon/gradient/arduino-512.png" width="35"/></code>
+<code><img src="Images/readme icon/non gradient/kali.jpeg" width="30"/></code>
+<code><img src="Images/readme icon/gradient/linux--v2.png"  width="35"/></code>
+<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="30" height="30" alt="Sass" /></code>
+<code><img src="Images/readme icon/gradient/figma-512.png" width="35" alt="Figma" /></code>
+<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="30" height="30" alt="NodeJS" /></code>
+<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="30" height="30" alt="Flutter" /></code>
+<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="30" height="30" alt="Photoshop" /></code>
+
+
+<!-- ##### WILL WORK ON THIS LATER ##### -->
+
+<!--<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/></code>-->
+<!--<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/></code>-->
+<!--<code><img src="imgs/c.png" width="30"/></code>-->
+<!--<code><img src="imgs/jquery.png" width="30"/></code>-->
+<!--<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="30" height="30" alt="Angular" /></code>--> 
+<!--<code><img src="imgs/django.png" width="30"/></code>-->
+<!--<code><img src="imgs/flask.png" width="30"/></code>-->
+<!--<code><img src="imgs/perl.png" width="30"/></code>-->
+<!--<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="30"/></code>-->
+<!--<code><img src="imgs/asm.png" width="30"/></code>-->
+<!--<code><img src="imgs/github.png" width="30"/></code>-->
+<!--<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/></code>-->
+<!--<code><img src="imgs/blogger.png" width="30"/></code>-->
+<!--<code><img src="imgs/wix.png" width="30"/></code>-->
+<!--<code><img src="imgs/wordpress.png" width="30"/></code>-->
+<!--<code><img src="imgs/andriod_studio.png" width="30"/></code>-->
+<!--<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30"/></code>-->
+<!--<code><img src="imgs/rasberry_pi.png" width="30"/></code>-->
+<!--<code><img src="imgs/power_shell.png" width="30"/></code>-->
+<!--<code><img src="imgs/bash.png" width="30"/></code>-->
+<!--<code><img src="imgs/terminal.png" width="30"/></code>-->
+<!--<code><img src="imgs/android_os.png" width="30"/></code>-->
+<!--<code><img src="imgs/tails.png" width="30" height=" "/></code>-->
+<!--<code><img src="imgs/windows_os.png" width="30"/></code>-->
+<!--<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="30" height="30" alt="Oracle" /></code>-->
+<!---->
+<!--<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="30" height="30" alt="After Effects" /></code>-->
+<!--<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="30" height="30" alt="XD" /></code>-->
+<!--<code><img src="https://i.ibb.co/QFV1v2v/kisspng-markdown-text-editor-html-github-5adb9822124578-5281760315243407700749.png" alt="marksdown" height="30" width="30" border="0"></code>-->
+
+<!-- ###### END OF Languages | Tools ##### -->
+
+
+
+<!-- ###### Currently Learning ##### -->
+
+<h4 align="left">
+📖 Currently Learning 📖 
+ </h4>
+
+
+<code><img src="Images/readme icon/gradient/cs.png" width="35"/></code>
+<code><img src="Images/readme icon/gradient/swift-512.png" width="35" alt="Swift" /></code>
+<code><img src="Images/readme icon/gradient/ruby-512.png" width="35" alt="Ruby" /></code>
+<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="30" height="30" alt="Go" /></code>
+
+
+
+<!--<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="30" height="30" alt="Firebase" /></code>-->
+
+<br />
+
+
+<!-- ###### END OF Currently Learning ##### -->
+
+
+
+
+
+ <!-- ###### Some of my projects ##### -->
+
+<details> 
+ <summary> <h3> 🔰 Some of my projects </h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
+  <br/>
+
+  <p align="left">
+  <a href="https://github.com/e1coders/Math-Quize">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=E1.Coders&repo=Math-Quize&theme=react&bg_color=0D1117" alt="Math-Quize"></a>
+  <a href="https://github.com/e1coders/Hangman-Game">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=E1.Coders&repo=Hangman-Game&theme=react&bg_color=0D1117" alt="Hangman-Game"></a>
+  <a href="https://github.com/e1coders/C-CPP-Programming-Project">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=E1.Coders&repo=C-CPP-Programming&theme=react&bg_color=0D1117" alt="C/C++"></a>
+  <a href="https://github.com/e1coders/QBasic">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=E1.Coders&repo=QBasic&theme=react&bg_color=0D1117" alt="QBasic"></a>
+  
+  </p>
+
+ <p align="left">
+  <a href="https://github.com/e1coders?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
-
-https://user-images.githubusercontent.com/54520907/173442002-dafc63ea-321f-4ce2-b349-be490b3a00ff.mp4
-
-## :rocket: Main Technologies ##
-
-<a href="https://nextjs.org">
-  <img width="50" title="NextJs" alt="Next Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/next-logo.svg">
-</a> &#xa0; &#xa0;
-
-<a href="https://www.typescriptlang.org">
-  <img width="50" title="Typescript" alt="Typescript Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/typescript-logo.svg">
-</a> &#xa0; &#xa0;
-
-<a href="https://styled-components.com">
-  <img width="50" title="Styled Components" alt="Styled Components Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png">
-</a> &#xa0; &#xa0;
-
-<a href="https://jestjs.io">
-  <img width="50" title="Jest" alt="Jest Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/jest-logo.svg">
-</a> &#xa0; &#xa0;
-
-<a href="https://eslint.org">
-  <img  width="50" title="Eslint" alt="Eslint Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">
-</a> &#xa0; &#xa0;
-
-<a href="https://prettier.io">
-  <img width="50" title="Prettier" alt="Prettier Logo" src="https://prettier.io/icon.png">
-</a>
-
-###
-
-<details>
-  <summary>See more</summary>
-
-  ###
-
-  * [Styled Icons (Feather Icons)](https://styled-icons.js.org)
-  * [Styled Media Query](https://github.com/morajabi/styled-media-query)
-  * [Framer Motion](https://framer.com/motion/)
-  * [HTML Prettify](https://github.com/Dmc0125/html-prettify)
-  * [React Share](https://github.com/nygardk/react-share)
-  * [Prismjs](https://prismjs.com)
-  * [UUID](https://www.npmjs.com/package/uuid)
-
 </details>
 
-## :white_check_mark: Requirements ##
-
-Before starting :checkered_flag:, make sure you have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed on your system. ([nvm](https://github.com/nvm-sh/nvm#node-version-manager---) recommended).
-
-## :checkered_flag: Starting ##
-
-```bash
-# Clone this project
-$ git clone https://github.com/maurodesouza/profile-readme-generator
-
-# Access
-$ cd profile-readme-generator
-
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn dev
-
-# The server will initialize in the <http://localhost:3000>
-```
-
-## :video_game: Scripts
-
-- `dev`: starts the application at `localhost:3000`;
-- `build`: creates an optimized production build of the application;
-- `start`: starts the application in production mode at localhost:3000 (make sure to run the build first);
-- `test`: runs the tests;
-- `lint`: runs eslint in the /src directory.
-
-## :memo: License ##
-
-This project is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE.md) file.
+<!-- ###### END OF Some of my projects  ##### -->
 
 
-Made with :heart: by <a href="https://github.com/maurodesouza" target="_blank">Mauro de Souza</a>
 
-&#xa0;
+<!-- ###### My Github Stats  ##### -->
 
-<a href="#top">Back to top</a>
+<h4 align="center">
+<img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center"> My Github Stats <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
+</h4>
+  
+  
+ <!--<h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>-->
 
-*Readme created with [Simple Readme](https://marketplace.visualstudio.com/items?itemName=maurodesouza.vscode-simple-readme)*
+ 
+ <div align="center">
+<a href="http://www.github.com/The-Young-Programmer"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=The-Young-Programmer&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="The-Young-Programmer's GitHub stats" /></a>
+<a href="https://github.com/e1coders"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Young-Programmer&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=0891b2&text_color=ffffff&icon_color=0891b2&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/The-Young-Programmer"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=The-Young-Programmer&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117" width = "100%"/></a>
+</div>
+
+<!-- ###### END OF My Github Stats  ##### -->
+
+
+
+<!-- ###### QUOTE OF THE DAY ##### -->
+
+<h4 align="left">
+<!-- Quote Of The Day --> Fun Fact Of The Day
+</h4>
+<!--
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=0D1117" width="100%"/>
+-->
+
+<img src="https://readme-jokes.vercel.app/api?theme=default" width="100%"/>
+  
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+
+<!-- ###### END OF QUOTE OF THE DAY ##### -->
+
+
+
+
+<!-- ###### SOCIAL MEDIA LINKS ##### -->
+
+<h4 align="center">
+ 
+<img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" align="center"> Contact <img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" align="center">
+</h4>
+
+<p align="center">
+ <a href="https://www.instagram.com/E1Coders" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/instagram-512.png" width="35"/></a>
+ <a href="https://www.linkedin.com/in/E1Coders" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/linkedin-512.png" width="35" /></a>
+ <a href="https://twitter.com/E1Coders" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/twitter-512.png" width="35" /></a>
+ <a href="E1.Coders@Mail.Ru" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/gmail-logo-512.png" width="35"/></a>
+</p>
+
+<!-- ###### END OF SOCIAL MEDIA LINKS ##### -->
+
+
+
+
+<!-- ###### FOOTER ##### -->
+
+<h4 align="center"> <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="30px" height="30px" align="center"> Support Me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="30px" height="30px" align="center"></h4>
+<p align="center">
+<a href="https://www.buymeacoffee.com/e1coders"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="220"/></a>
+</p>
+
+
+
+
+<img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
+
+
+
+<!-- ###### END OF FOOTER ##### -->
+
+ 
+
+
+
+
+
+
