@@ -5,6 +5,13 @@
 
 <img width=100% title="E1.Coders" alt="[E1.Coders" src="https://www.crushpixel.com/big-static19/preview4/coding-system-minimal-infographic-banner-3584480.jpg"/>
 
+Ваш компьютер не в вашем распоряжении.
+Скорее, это в руках того, кто имеет больше знаний...
+Будьте в безопасности с нами.
+████████▒▒▒ 90%
+< APT0 />
+
+
 
 <p align="center">
 <a href="https://packetstormsecurity.com/files/author/11568/"/><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
